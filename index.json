@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "MissAV",
+    "pkgName": "eu.kanade.tachiyomi.animeextension.all.missav",
+    "version": "14.25",
+    "apk": "aniyomi-all.missav-v14.25.apk",
+    "lang": "all",
+    "type": "anime",
+    "nsfw": 1
+  },
+  {
+    "name": "HentaiMama",
+    "pkgName": "eu.kanade.tachiyomi.animeextension.en.hentaimama",
+    "version": "14.7",
+    "apk": "aniyomi-en.hentaimama-v14.7.apk",
+    "lang": "en",
+    "type": "anime",
+    "nsfw": 1
+  },
+  {
+    "name": "hanime.tv",
+    "pkgName": "eu.kanade.tachiyomi.animeextension.en.hanime",
+    "version": "14.21",
+    "apk": "aniyomi-en.hanime-v14.21.apk",
+    "lang": "en",
+    "type": "anime",
+    "nsfw": 1
+  },
+  {
+    "name": "KissKH",
+    "pkgName": "eu.kanade.tachiyomi.animeextension.en.kisskh",
+    "version": "14.5",
+    "apk": "aniyomi-en.kisskh-v14.5.apk",
+    "lang": "en",
+    "type": "anime",
+    "nsfw": 1
+  }
+]
