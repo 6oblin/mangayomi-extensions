@@ -1,4 +1,5 @@
-[
+{
+    "extensions":[
   {
     "name": "MissAV",
     "pkgName": "eu.kanade.tachiyomi.animeextension.all.missav",
@@ -44,3 +45,4 @@
     "nsfw": 1
   }
 ]
+}
